@@ -1,0 +1,12 @@
+chromadb
+transformers
+huggingface_hub
+langchain
+langchain-community
+langchain-huggingface 
+sentence-transformers
+torch
+datasets
+numpy
+fastapi
+pydantic
